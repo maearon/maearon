@@ -47,7 +47,7 @@ I'm an experienced **DevOps & Mobile App Developer** with **5+ years** in softwa
 ---
 
 ## 💡 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manh-nguyen-4a8b23254)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/manh-nguyen-4a8b23254](https://www.linkedin.com/in/manh-nguyen-4a8b23254)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mark_mowattt)  
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20385795)  
 
