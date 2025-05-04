@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```
 bugbook/
 ├── bugbook-web/ # Web frontend (Next.js, fullstack)
 │ ├── app/ # App Router pages & routes
@@ -47,3 +48,4 @@ bugbook/
 │ └── .env # Shared PostgreSQL connection
 │
 └── bugbook-docs/ # Documentation site (optional, Next.js or Docusaurus)
+```
