@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **maearon/maearon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -63,7 +63,7 @@ sample-app(FE-ZUDTAND_KY-BE-REST-API-POSTGRES)/
 │ ├── src/lib/ # ky client, auth, utils
 │ └── src/auth/ # Lucia session logic
 │
-├── flutter-boilerplate/ # Flutter alternative app
+├── flutter_social_app/ # Flutter alternative app
 │ ├── lib/screens/ # UI screens
 │ ├── lib/services/ # API services
 │ ├── lib/utils/ # Helpers, ky client equivalent
@@ -85,3 +85,4 @@ sample-app(FE-ZUDTAND_KY-BE-REST-API-POSTGRES)/
 │
 └── basic-docs/ # Documentation site (optional, Next.js or Docusaurus)
 ```
+--!>
