@@ -7,6 +7,7 @@ Hi there 👋 I'm Mark!
 - DevOps (learning CI/CD, Docker, Cloud deployment)
 
 🚀 Currently learning:
+- AI spaCy, scikit-learn, Transformers (HuggingFace), OpenAI APIs
 - Rust, Swift, Kotlin (for future native + system dev)
 - Serverless architectures with Firebase & AWS
 
